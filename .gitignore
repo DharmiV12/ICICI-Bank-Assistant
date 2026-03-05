@@ -177,3 +177,6 @@ pyrightconfig.json
 
 chroma/
 Knowledge Source/
+
+.python-version
+uv.lock
